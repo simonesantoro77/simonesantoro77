@@ -2,7 +2,7 @@
 
 I'm an Italian ecologist who has lived in Spain for many years and dedicated my entire professional career there. Making sense of ecological analyses can be quite challenging, particularly when dealing with unbalanced data and processes that are only partially and imperfectly observable. With this in mind, I've maintained a keen interest in unraveling the methods behind the results.
 
-R is my primary domain for data management and statistical analyses. Currently, my primary focus is on [a captivating project](https://www.zooniverse.org/projects/aicensusuhu/iberian-camera-trap-project/about/research) aimed at improving robustness and semi-automating wildlife monitoring. This initiative involves the integration of camera trapping, citizen science, and artificial intelligence to automate the process.
+R is my primary domain for data management and statistical analyses. Currently, my primary focus is on [a captivating project](https://wildintel.eu/) aimed at improving robustness and semi-automating wildlife monitoring. This initiative involves the integration of camera trapping, citizen science, and artificial intelligence to automate the process.
 
 <!--
 **simonesantoro77/simonesantoro77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
